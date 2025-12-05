@@ -10,8 +10,10 @@ Endpoint Logs (DLP): Cross-referencing those times with Removable Media (USB) co
 
 Results:
 
-Identified User {Insert User ID Found by Code} as a critical risk.
+Identified User AJF0370 as a critical risk.
+Visual Evidence: Highest frequency of USB-connect events in the dataset
+![Chart 1](images/evidence_usb_stats.png)
 
-User consistently accessed the network between 02:00-04:00 AM and immediately connected a USB device.
 
-Visual Evidence: [See Attached Graphs]
+User consistently accessed the network between 00:00-06:00 AM and immediately connected a USB device.
+![Chart 2](images/evidence_timeline.png)
